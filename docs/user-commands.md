@@ -44,12 +44,17 @@
 
 
 
-**psearch** -> searches the query on google and returns summaries of the anwer from websites
+**psearch** -> searches the query on google and returns summaries of the answer from websites
 
 *example*: psearch what are the current best universities for CS
 
 ---
 
+**pread** -> reads a file given the filename and foldername
+
+*example*: pread the text.html file in the Desktop folder
+
+---
 
 
 *If you want you can combine the psave command with any other command
